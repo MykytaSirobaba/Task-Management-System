@@ -1,0 +1,74 @@
+type: edu
+files:
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/taskmanagement/Application.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/ApplicationTests.java
+    visible: false
+    learner_created: false
+  - name: test/TestTask.java
+    visible: false
+    learner_created: false
+  - name: test/TestUser.java
+    visible: false
+    learner_created: false
+  - name: src/taskmanagement/dtos/user/UserAuthDtoRequest.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/controllers/AuthController.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/services/UserService.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/services/TaskService.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/entities/Task.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/dtos/user/UserAuthDtoResponse.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/repositories/TaskRepository.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/repositories/UserRepository.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/dtos/user/UserResponseDto.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/config/SecurityConfig.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/entities/User.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/services/AuthService.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/controllers/TaskController.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/dtos/task/TaskDtoRequest.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/dtos/task/TaskDtoResponse.java
+    visible: true
+    learner_created: true
+  - name: src/taskmanagement/enums/StatusTask.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/40329#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 24 May 2025 22:17:04 UTC"
+record: 2
